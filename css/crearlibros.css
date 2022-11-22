@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: whitesmoke;
+}
+.container{
+    height: 500px;
+    font-family: cursive;
+}
+.menu{
+    background-color: whitesmoke;
+}
+.menu2{
+    background-color: whitesmoke;
+}
+label{
+    font-size: 15px;
+    font-weight: bold;
+}
+fieldset{
+    justify-content: center;
+    border-radius: 2%;
+    width: 500px;
+    margin-left: 28%;
+    margin-top: 40px;
+    padding: 20px;
+}
+.guardar{
+    height: 30px;
+    width: 100px;
+    margin: 15px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 1px black;
+}
+input{
+    border: 2px solid black;
+}
+.pag{
+    width: 120px;
+    margin-left: 43%;
+    margin-top: 4%;
+}
+a{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

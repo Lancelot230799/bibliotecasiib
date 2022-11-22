@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.containertres{
+    height: 680px;
+    justify-content: center;
+    grid-template-columns: 50% 50%;
+
+}
+.filtro{
+    margin: 15px;
+}
+.bar{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    width: 500px;
+    height: 25px;
+}
+.tabl{
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.fil{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.tabl thead{
+    background-color: grey;
+    padding: 5px;
+    font-size: 18px;
+}
+.columnauno{
+    margin-right: 20px;
+}
+.columnados{
+    margin-right: 20px;
+}
+.columnatres{
+    margin-right: 20px;
+}
+.columnacuatro{
+    margin-right: 20px;
+}
+.columnacinco{
+    margin-right: 20px;
+}
+.columnaseis{
+    margin-right: 20px;
+}
+.columnasiete{
+    margin-right: 20px;
+}
+.columnaocho{
+    margin-right: 20px;
+}
+a{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.pag{
+    width: 120px;
+    margin-left: 43%;
+    margin-top: 4%;
+}

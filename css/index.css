@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: white;
+    text-align: center;
+    font-family: cursive;
+    height: 90px;
+}
+.containeri{
+    height: 400px;
+}
+.ti{
+    margin-right: 15px;
+}
+button{
+    height: 50px;
+    margin-left: 25%;
+    margin-bottom: 4%;
+    margin-top: 2%;
+    width: 50px;
+    border: 2px solid white;
+}
+.img{
+    height: 100px;
+    width: 100px;
+}
+.marco{
+    justify-content: center;
+    margin-left: 35%;
+    margin-top: 10%;
+    width: 410px;
+    height: 250px;
+    font-family: cursive;
+}
+.texto{
+    margin-left: 10%;
+    height: 20px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.ing{
+    height: 30px;
+    width: 80px;
+    border-radius: 10%;
+    font-family: cursive;
+}
+.gl{
+    background-image: url(/img/images.png);
+    background-size: 40px, 40px;
+    background-repeat: no-repeat;
+}
+.outl{
+    background-image: url(/img/descarga\ \(1\).jpeg);
+    background-size: 40px, 40px;
+    background-repeat: no-repeat;
+}

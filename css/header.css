@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    display: grid;
+    text-align: left;
+    font-size: 20px;
+    font-family: cursive;
+}
+.titulo{
+    width: 280px;
+    height: 40px;
+    margin-top: 5%;
+    margin-left: 15%;
+    font-family: cursive;
+}

@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.containerdos{
+    height: 500px;
+    font-family: cursive;
+}
+.busqueda{
+    border-radius: 10px;
+    height: 25px;
+    width: 500px;
+    margin: 10px;
+    font-family: cursive;
+}
+.activo{
+    font-size: 20px;
+    text-decoration: underline;
+    margin: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+.listado{
+    justify-content: center;
+    width: 1000px;
+    margin: 8%;
+    padding: 15px;
+    border: 3px solid black;
+}
+.columna1{
+    margin: 30px;
+}
+.columna2{
+    margin: 30px;
+}
+.columna3{
+    margin: 30px;
+}
+.entrega{
+    font-size: 15px;
+    color: dodgerblue;
+}
+.pag{
+    width: 120px;
+    margin-left: 43%;
+    margin-top: 4%;
+}
+a{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
